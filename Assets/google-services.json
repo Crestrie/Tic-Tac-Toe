@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965540593556",
+    "firebase_url": "https://trillare-tic-tac-toe.firebaseio.com",
+    "project_id": "trillare-tic-tac-toe",
+    "storage_bucket": "trillare-tic-tac-toe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965540593556:android:29325ec86bbecbf3cf9981",
+        "android_client_info": {
+          "package_name": "com.trillare.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965540593556-5vj9erg0uqk9900suo05n1u80ralul4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbO_mGkxTVVHAiJsB8qJj35hL1AYSFppo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965540593556-5vj9erg0uqk9900suo05n1u80ralul4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
